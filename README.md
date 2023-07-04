@@ -1,4 +1,4 @@
-## Analysing YouTube trending data to find which category to launch a YouTube channel in
+## Analysing YouTube trending data to determine most suitable category for launching new YouTube channel
 
 
 The YouTube trending data was analysed to find answers to the following questions:
@@ -8,7 +8,7 @@ The YouTube trending data was analysed to find answers to the following question
 - For each country, which category_title has the most distinct videos and what is its percentage (2 decimals) out of the total distinct number of videos of that country? (part_3_q4.sql)
 - Which channeltitle has produced the most distinct videos and what is this number? (part_3_q5.sql)
 
-Finally, the YouTube trending data was analysed to make a recommendation in which category of video to launch a new YouTube channel (part_4.sql)
+Finally, the YouTube trending data was analyzed to determine the most suitable category of video for launching a new YouTube channel.(part_4.sql)
 
 The `\csv files` directory contains the output of all the sql queries stored in csv files
 
