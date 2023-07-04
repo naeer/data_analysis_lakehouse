@@ -1,7 +1,7 @@
 ## Analysing YouTube trending data to find which category to launch a YouTube channel in
 
 
-The YouTube trending data was analysed to find answers for the following questions:
+The YouTube trending data was analysed to find answers to the following questions:
 - What are the 3 most viewed videos for each country in the “Sports” category for the trending_date = ‘'2021-10-17'’? (part_3_q1.sql)
 - For each country, what is the count the number of distinct video with a title containing the word “BTS”? (part_3_q2.sql)
 - For each country, year and month (in a single column), which video is the most viewed and what is its likes_ratio (defined as the percentage of likes against view_count) truncated to 2 decimals? (part_3_q3.sql)
